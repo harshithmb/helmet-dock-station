@@ -8,7 +8,8 @@ const Tracking = (props) => {
     return (
         <div>
             <h3>Tracking</h3>
-            
+            <img src="https://vogo.in/wp-content/themes/vogoClassic/assets/Quick@2x.png" alt="" />
+            <hr />
             <Button variant="danger" onClick={() => setShow(true)}>End Trip</Button>
             <Modal
                 show={show}
