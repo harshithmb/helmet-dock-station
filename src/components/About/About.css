@@ -1,0 +1,11 @@
+.sub-box {
+    padding: 3rem 0;
+    background-color: #FFD500;
+    text-align: center;
+    position: relative;
+    top: 80px;
+}
+
+.sub-page-titles {
+    font-weight: bolder;
+}

@@ -1,0 +1,14 @@
+.copyright {
+    box-shadow: inset 0px 1px 0px rgba(0, 0, 0, 0.12);
+    width: 80%;
+    margin: auto;
+    padding: 20px 0;
+    position: relative;
+    top: 80px;
+}
+
+@media (min-width: 1025px) {
+    .copyright {
+        top: 200px;
+    }
+}

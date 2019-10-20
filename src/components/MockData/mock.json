@@ -1,0 +1,18 @@
+{
+    "vehicle": [
+        {
+            "number": "KA12QQ9315",
+            "owner": "vogo pvt. ltd.",
+            "address": "Bangalore"
+        },
+        {
+            "number": "KA14PP1234",
+            "owner": "vogo pvt. ltd.",
+            "address": "Bangalore"
+        },
+        {
+            "number": "KA14LM5678",
+            "owner": "vogo pvt. ltd.",
+            "address": "Bangalore"
+        }]
+}
